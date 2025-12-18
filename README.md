@@ -1,6 +1,8 @@
 # Assignment 1 Industry visit video
 The very first assignment for Technology & Information System (SECP1513-07)
 link for video: https://drive.google.com/file/d/1TFlpYwCfRAQqA0jzfXTcoJtd1vtTUcGr/view?usp=drivesdk
+
+
 What i learn: 
 Through this industry visit, i learn how UTM Digital,Microsoft, and other companies applt technology in real industry scenarios. I also learn that the expectations are different from classroom learning. The companies value not only technical skills, but also problem-solving skills,and continuos learining.This made me realize what i study in Computer Science must be connected to real-world applications
 
